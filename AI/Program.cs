@@ -9,6 +9,7 @@ namespace AI
 {
     class Program
     {
+        //Radi ko sisa
         static void Main(string[] args)
         {
             Human me = new Human(new DateTime(1982, 11, 29), null, "Ivan", "Dubravac", Helpers.Gender.Male, (decimal)180, (decimal)100, "12345678910111213", "220212345678","09912579555", "idubravac@ingeniumweb.com", Helpers.Color.Brown, Helpers.Color.Blue, "Johnny");
